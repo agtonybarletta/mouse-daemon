@@ -68,6 +68,11 @@ should appear something like:
 Jul 11 23:45:17 debian mouse_daemon[1155]: started.
 ```
 
+You can also check if the daemon is running by checking the list of current running processes
+
+```
+ps -aux | mouse_daemon
+```
 
 ### Test
 
