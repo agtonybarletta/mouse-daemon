@@ -85,6 +85,11 @@ tail /var/log/mouse.log
 After some click the file should change.
 
 
+### Output
+
+[output](messigray.jpg)
+
+
 ## Built With
 
 * [X library](https://www.x.org/)
