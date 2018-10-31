@@ -88,7 +88,7 @@ After some click the file should change.
 ### Output
 
 ![Toutput](messigray.jpg) 
-This image shows the most used portion of the screen. The data have been collected by deamon running on a Debian 9 linux distribution for 3 months.
+This image shows the most used portion of the screen. The data have been collected by the deamon running on a Debian 9 linux distribution for 3 months.
 
 
 ## Built With
