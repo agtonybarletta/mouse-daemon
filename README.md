@@ -1,6 +1,6 @@
 # Mouse Daemon
 
-This is a Linux mouse daemon that log the position of the pointer at every click.
+A Linux daemon that logs the pointer's position at every click.
 
 ## Getting Started
 
@@ -9,9 +9,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 To compile this code you need
-* gcc
-* X library
-* Any linux distribution (tested only on Debian GNU/Linux 9 (stretch) 64-bit)
+-  gcc
+- X library
+- Any linux distribution (tested only on Debian GNU/Linux 9 (stretch) 64-bit)
 
 ### Installing
 
@@ -88,8 +88,11 @@ After some click the file should change.
 ### Output
 
 ![Toutput](messigray.jpg) 
-This image shows the most used portion of the screen. The data have been collected by the deamon running on a Debian 9 linux distribution for 3 months.
-
+This image shows the most used portions of the screen. The data have been collected by the deamon running on a Debian 9 linux distribution for 3 months.
+Notice the 3 most clicked areas
+- top left corner, in witch the applicaiton menu (start button) is located
+- the left icon of the menu, where the menu categories are
+- the browser tabs along the top.
 
 ## Built With
 
