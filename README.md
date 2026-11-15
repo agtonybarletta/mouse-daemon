@@ -87,7 +87,7 @@ mouse-daemon/
 ├── mouse.log          # 150,430 logged clicks (2018-07-08 → 2018-10-31)
 ├── messigray.jpg      # heat map rendered from mouse.log
 ├── thumbnails/        # sample captures used in this document
-├── LICENSE            # MIT
+├── LICENSE.txt        # MIT
 └── README.md
 ```
 
@@ -359,7 +359,7 @@ Issues and pull requests are welcome. Please keep changes small and in the spiri
 
 ## License
 
-Released under the **MIT License** — see [LICENSE](LICENSE) for the full text.
+Released under the **MIT License** — see [LICENSE.txt](LICENSE.txt) for the full text.
 
 ---
 
